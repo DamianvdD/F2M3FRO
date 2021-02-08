@@ -8,7 +8,7 @@ Link naar de Website Les1: N/A
 Gebruik git om de repository te clonen
 
 ```bash
-git clone https://github.com/DamianvdD/LAM-Website.git
+git clone https://github.com/DamianvdD/F2M3FRO.git
 ```
 
 ## License
